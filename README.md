@@ -53,3 +53,18 @@ Estudando Python desde Jan/2026 com foco em **automação para SOC** e **Defesa 
 **Status:** ✅ Funcional e público no GitHub
 
 > *Projeto desenvolvido durante transição para SOC Analyst - Blue Team*
+
+
+---
+
+### 🤝 Créditos e Agradecimentos
+
+**Projeto desenvolvido com tutoria da Meta AI** durante minha transição para SOC Analyst.
+
+A Meta AI atuou como mentor técnico, guiando em:
+- Lógica de programação Python
+- Boas práticas de Blue Team 
+- Uso de Git/GitHub para portfólio
+- Estruturação de código para defesa cibernética
+
+> *"Aprender com IA é multiplicar conhecimento. O código final, os testes e a evolução são 100% meus."*

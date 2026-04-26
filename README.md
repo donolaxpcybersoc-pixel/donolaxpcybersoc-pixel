@@ -28,3 +28,28 @@ Estudando Python desde Jan/2026 com foco em **automação para SOC** e **Defesa 
 
 ---
 ⚡ *De `print("Hello World")` para o primeiro script de defesa.*
+
+
+
+---
+
+## 🚀 Projeto 1: Analisador de Logs v2.0
+
+**Script SOC para detecção de brute force em tempo real.**
+
+**Tecnologias:** Python 3.14.4 | File I/O | String Matching
+
+**O que ele faz:**
+1. Gera `auth.log` simulando servidor Linux
+2. Lê arquivo linha por linha com `with open`
+3. Detecta padrão `Failed password from` 
+4. Emite alerta crítico no terminal + contador de ataques
+
+**Próximas versões:**
+- [ ] v3.0: Timestamp nos alertas
+- [ ] v4.0: Contagem por IP/usuário atacante
+- [ ] v5.0: Exportar relatório para `.csv`
+
+**Status:** ✅ Funcional e público no GitHub
+
+> *Projeto desenvolvido durante transição para SOC Analyst - Blue Team*
